@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "625317642238",
+    "firebase_url": "https://alexnotifications-ce428.firebaseio.com",
+    "project_id": "alexnotifications-ce428",
+    "storage_bucket": "alexnotifications-ce428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625317642238:android:dfe6d8607fdd41b5",
+        "android_client_info": {
+          "package_name": "com.android.alex.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625317642238-ifss6jl7lnq98htec3v1tib93bcsu236.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.alex.firebasenotification",
+            "certificate_hash": "5F09814E02F5A96FB00E1EC7964E32532705BB3A"
+          }
+        },
+        {
+          "client_id": "625317642238-9kum50i3sqr8h5v05qojnm808ng84n3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfCr1yprjnbZPLCqN1GdZZEEW2y_zr0-o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625317642238-9kum50i3sqr8h5v05qojnm808ng84n3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Notification</string>
+    <string name="fb_reg_id">Firebase Registration ID</string>
+    <string name="push_msg">Push Message</string>
+</resources>
